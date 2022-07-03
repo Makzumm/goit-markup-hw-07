@@ -63,7 +63,7 @@ body {
   border-bottom: 1px solid #ECECEC;
 }
 
-.container-header {
+.header__container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -94,11 +94,11 @@ body {
   color: #212121;
 }
 
-.header-nav_accent {
+.header-nav__accent {
   color: #2196F3;
 }
 
-.header-menu__list {
+.header-menu {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

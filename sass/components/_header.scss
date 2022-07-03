@@ -1,19 +1,19 @@
-.header {
+.header{
     border-bottom: 1px solid #ECECEC;
 }
 
-.container-header {
+.header__container{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.header-nav {
+.header-nav{
     display: flex;
     align-items: center;
 }
 
-.header-nav__logo {
+.header-nav__logo{
     text-decoration: none;
     font-family: 'Raleway', 'Verdana';
     font-weight: 700;
@@ -23,11 +23,11 @@
     color: $main-txt-color;
 }
 
-.header-nav_accent {
+.header-nav__accent{
     color: $light-blue-txt-color;
 }
 
-.header-menu__list {
+.header-menu{
     display: flex;
     gap: 50px;
     margin-left: 93px;
